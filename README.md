@@ -94,7 +94,8 @@ HTML
 </body>
 </html>
 Contact
-For any questions or suggestions, please reach out to us at [your contact information].
+For any questions or suggestions, please reach out to us at 
+   info@cowboyprinter.com.
 
 Happy coding!
 
