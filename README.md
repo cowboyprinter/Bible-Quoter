@@ -1,4 +1,5 @@
-# Bible-Quoter
+# Generate a random book quote 
+# using
 
 # Bible-Quoter
 
