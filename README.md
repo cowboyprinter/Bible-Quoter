@@ -1,10 +1,9 @@
-# Generate a random book quote 
+# Generate random book quotes
 # using
-
 # Bible-Quoter
 
 ## Project Description
-Bible-Quoter is a web application that displays a randomly generated quote from the Bible. The project is designed to be a starting point for developers to add generative sound and images to enhance the UI/UX. Additionally, the Bible can be interchanged with an API to any favorite book, and the quotations can be translated into any desired language.
+Bible-Quoter is a web application that displays a randomly generated quote from the Bible. The project is designed to be a starting point for developers to add generative sound and images to enhance the UI/UX. Additionally, the Bible can be interchanged with an API to any favorite book, and the quotations can be translated into any desired language. Help expand the functionality!
 
 ## Key Features
 - Displays a random Bible quote on page load.
@@ -99,4 +98,41 @@ For any questions or suggestions, please reach out to us at [your contact inform
 
 Happy coding!
 
-This README provides a comprehensive overview of your project
+Code
+### Adding the MIT License
+
+To add the MIT License to your repository, follow these steps:
+
+1. Go to your repository on GitHub.
+2. Click on the "Add file" button and select "Create new file".
+3. Name the file `LICENSE`.
+4. Copy and paste the following MIT License text into the file:
+    ```text
+    MIT License
+
+    Copyright (c) 2025 cowboyprinter
+
+    Permission is hereby granted, free of charge, to any person obtaining a copy
+    of this software and associated documentation files (the "Software"), to deal
+    in the Software without restriction, including without limitation the rights
+    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+    copies of the Software, and to permit persons to whom the Software is
+    furnished to do so, subject to the following conditions:
+
+    The above copyright notice and this permission notice shall be included in all
+    copies or substantial portions of the Software.
+
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+    SOFTWARE.
+    ```
+5. Scroll down to the "Commit new file" section.
+6. Add a commit message, such as "Add MIT License".
+7. Choose to commit directly to the `main` branch or create a new branch and start a pull request.
+8. Click the "Commit new file" button to save the license to your repository.
+
+Your repository will now have the MIT License, allowing others to use, modify, and distribute
