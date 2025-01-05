@@ -1,5 +1,3 @@
-Here is a step-by-step guide to document the process of installing Node.js and deploying the codebase locally using http-server.
-
 Quick Start Guide
 Prerequisites
 A web browser to view the application.
@@ -105,4 +103,3 @@ Contact
 For any questions or suggestions, please reach out to us at info@cowboyprinter.com.
 
 Happy coding!
-
