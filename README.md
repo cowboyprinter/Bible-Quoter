@@ -12,6 +12,10 @@ Bible-Quoter is a web application that displays a randomly generated quote from 
 - Easily extendable to include sound, images, and other books via APIs.
 - Supports translation of quotes into different languages.
 
+# Here is a simple example of What a visual Dark Theme looks like
+
+Bible Quoter Dark screenshot Screenshot 2025-01-05 114046.png
+
 ## Getting Started
 
 ### Prerequisites
