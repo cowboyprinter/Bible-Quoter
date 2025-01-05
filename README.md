@@ -14,7 +14,7 @@ Bible-Quoter is a web application that displays a randomly generated quote from 
 
 # Here is a simple example of What a visual Dark Theme looks like
 
-Bible Quoter Dark screenshot Screenshot 2025-01-05 114046.png
+![Bible Quoter Dark screenshot](images/Screenshot%202025-01-05%20114046.png)
 
 ## Getting Started
 
