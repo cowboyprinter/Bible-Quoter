@@ -1,0 +1,12 @@
+#bibleQuote {
+    background-color: #eee;
+    color: #a0a;
+    margin: 300px auto 0;
+    font-size: 40px;
+    width: 90vw;
+    padding: 40px;
+    border-radius: 20px;
+}
+.reload-button {
+    /* Add styles for the reload button if needed */
+}
